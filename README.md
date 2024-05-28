@@ -21,3 +21,5 @@ React Youtube Media Viewer, YouTube videolarını görüntülemek ve ilgili yoru
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına göz atın.
+
+![image](https://github.com/nrgncorp/React-Youtube-Media-Viewer/assets/106927887/c24313e4-52a9-4295-890a-ca63986e980a)

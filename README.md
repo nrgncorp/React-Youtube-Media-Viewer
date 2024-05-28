@@ -1,5 +1,7 @@
 # React Youtube Media Viewer
 
+![image](https://github.com/nrgncorp/React-Youtube-Media-Viewer/assets/106927887/c24313e4-52a9-4295-890a-ca63986e980a)
+
 React Youtube Media Viewer, YouTube videolarını görüntülemek ve ilgili yorumları görmek için kullanılan bir React uygulamasıdır. Bu uygulama, YouTube'un API'sini kullanarak belirli bir video için yorumları ve video detaylarını çeker ve kullanıcıya sunar.
 
 ## Özellikler
@@ -22,4 +24,4 @@ React Youtube Media Viewer, YouTube videolarını görüntülemek ve ilgili yoru
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına göz atın.
 
-![image](https://github.com/nrgncorp/React-Youtube-Media-Viewer/assets/106927887/c24313e4-52a9-4295-890a-ca63986e980a)
+
